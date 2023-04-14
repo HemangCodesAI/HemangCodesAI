@@ -3,25 +3,15 @@
 <h4 align="center"> I’m Hemang Joshi <I> aka </I> HemangCodesAI :skull: </h4>
 
 <h4 align="center"> Aspiring Machine Learning Engineer  </h4>
-<br></br>
 
 <h5 align="center"> <a href="https://greyhatguy007.github.io/">Check out My Website (in progress) </a> </h3> 
 
-<br/>
-
-
-
-
-
-<hr> </hr>
-
 <p align="center">
-  <b> <u> Stuffs Going On... </u> </b>
+  <b> <u> Stuff Going On... </u> </b>
   <br/>
   <br/>
 <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="keras">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-
 </a> 
 <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
 <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a>
@@ -38,12 +28,10 @@
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> 
 </p>
 
-<br/>
 
 #### 🌟 Visitors over time
 ![](https://komarev.com/ghpvc/?username=HemangJoshi&label=PROFILE+VIEWS&style=plastic)
 
-<br/>
 
 <b> Languages 🥸 </b>
 
@@ -79,13 +67,6 @@
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 
-<br/>
-
-
-
-<br/>
-
-<br/>
 
 <p align="center">
 <br></br>
@@ -97,14 +78,12 @@
   <a href="https://github.com/anuraghazra/convoychat">
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=HemangJoshi&langs_count=10&exclude_repo=deep-learning-specialization)](https://github.com/anuraghazra/github-readme-stats&theme=radical" />
 </a>
-  <br></br>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=HemangJoshi&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-streak-stats">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HemangJoshi&theme=dark"> </a>
 </p>
-<br></br>
 
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HemangJoshi&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -125,37 +104,10 @@
 
 </div>
 
-<br></br>
-
-
-<!--
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HemangJoshi&theme=dark)](https://git.io/streak-stats)
-
-<br></br>
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
-<br></br>
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=eed9u1qa5bcccpdjyflal5st4&width=400?style=centerme)
-<br></br>
 
 
 
-
--->
-<hr>
-
-<br></br>
-
-<a href="https://stackoverflow.com/users/18259104/ritvik-prasad">
-<img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="stackoverflow"> </a>
-
-<a href="https://instagram.com/rit_08_/">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-
-
-<a href="https://www.linkedin.com/in/ritvik-prasad-608176242">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-
-#### mail: mritvikprasad@gmail.com
+#### Mail: hemanghades@gmail.com
 
 ## Reach Me ☝️☝️☝️
 
