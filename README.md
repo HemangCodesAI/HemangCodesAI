@@ -30,7 +30,7 @@
 
 
 #### 🌟 Visitors over time
-![](https://komarev.com/ghpvc/?username=HemangJoshi&label=PROFILE+VIEWS&style=plastic)
+![](https://komarev.com/ghpvc/?username=HemangCodesAI&label=PROFILE+VIEWS&style=plastic)
 
 
 <b> Languages 🥸 </b>
@@ -76,17 +76,17 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/convoychat">
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=HemangJoshi&langs_count=10&exclude_repo=deep-learning-specialization)](https://github.com/anuraghazra/github-readme-stats&theme=radical" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=HemangCodesAI&langs_count=10&exclude_repo=deep-learning-specialization)](https://github.com/anuraghazra/github-readme-stats&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=HemangJoshi&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HemangCodesAI&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-streak-stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HemangJoshi&theme=dark"> </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HemangCodesAIi&theme=dark"> </a>
 </p>
 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HemangJoshi&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Hemang's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HemangCodesAI&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <div align="center">
 
@@ -94,7 +94,7 @@
 
 [![Coding](https://wakatime.com/badge/user/ef147abe-f36f-460c-87f3-51b50708c5bd.svg)](https://wakatime.com/@ef147abe-f36f-460c-87f3-51b50708c5bd)
 
-[![Ritvik's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ritvikprasad&theme=xcode)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
     
